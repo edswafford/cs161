@@ -31,6 +31,8 @@
  * Core kernel-level thread system.
  */
 
+// Test git with comment
+
 #define THREADINLINE
 
 #include <types.h>
